@@ -1,6 +1,6 @@
 # TRAINEE_NAME lab repo
 
-Adapted from the [VKCLab template](https://github.com/Klepac-Ceraj-Lab/TraineeTemplate).
+Adapted from the [The Bonham Lab Trainee Template](https://github.com/BonhamLab/TraineeTemplate).
 
 ## Contents
 
