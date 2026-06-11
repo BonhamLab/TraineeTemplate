@@ -29,7 +29,7 @@ Conda is a program that will make the organization within my computer "better" b
 
 This week, (check all that apply):
 
-- [ ] I accomplished all or most of my goals
-- [ ] I used my time wisely
-- [ ] I struggled with a problem, but solved it
-- [ ] I ran into an issue I could not solve on my own.
+- [x] I accomplished all or most of my goals
+- [x] I used my time wisely
+- [x] I struggled with a problem, but solved it
+- [x] I ran into an issue I could not solve on my own.
