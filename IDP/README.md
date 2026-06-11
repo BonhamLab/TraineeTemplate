@@ -12,26 +12,23 @@ can be used as a tracking document.
 
 ## Short-term goals
 
-Goals that can / should be accomplished in the next 3-6 months.
+Be more comfortable with navigating my computer and problem-solving errors.
 
 ### Some goal
 
-Here's a description of my goal.
+Navigate, install, and write a protocol for BAQLaVa; Install Conda for better organization. 
 
-- [ ] A sub-goal with a checkmark and [a link](https://example.com)
+- [] [https://github.com/biobakery/baqlava/blob/master/readme.md]
 
 ### Another goal
 
-Another description, with some details about plans
+Provide meaningful data analysis, once I am more comfortable with the terminal.
 
 ## Long-term goals
 
-Goals that may take a year or more to accomplish.
+Potentially making an abstract!
 
 ## Career goals
 
-This section should describe what your long-term career aspirations are.
-Almost no one in the lab should expect to be in the Bonham Lab for the rest of their career,
-and knowing what you think you want to do next (even if there are many possiblities or no clear ideas)
-can help Kevin to provide mentorship and resources to support your development.
+I want to have a stronger foundaiton with wet lab, clinical research, and coding!
 
